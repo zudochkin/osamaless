@@ -7,7 +7,6 @@
    ;; [clojure.data.zip.xml :as dzx]
    ;; [clojure.data.csv :as csv]
    ;; [clojure.data.xml :as xml]
-   [osamaless.types :as t]
    ))
 
 (def people (csv-downloader/get-people))
