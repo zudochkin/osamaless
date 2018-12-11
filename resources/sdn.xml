@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="yes"?>
+<sdnList>
+  <sdnEntry>
+    <uid>36</uid>
+    <lastName>AEROCARIBBEAN AIRLINES</lastName>
+    <sdnType>Entity</sdnType>
+    <programList>
+      <program>CUBA</program>
+    </programList>
+    <akaList>
+      <aka>
+        <uid>12</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>AERO-CARIBBEAN</lastName>
+      </aka>
+    </akaList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>173</uid>
+    <lastName>ANGLO-CARIBBEAN CO., LTD.</lastName>
+    <sdnType>Entity</sdnType>
+    <programList>
+      <program>CUBA</program>
+    </programList>
+    <akaList>
+      <aka>
+        <uid>57</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>AVIA IMPORT</lastName>
+      </aka>
+    </akaList>
+  </sdnEntry>
+</sdnList>
