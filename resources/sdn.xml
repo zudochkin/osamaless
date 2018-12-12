@@ -2,6 +2,7 @@
 <sdnList>
   <sdnEntry>
     <uid>36</uid>
+    <firstName>AEROCARIBBEAN</firstName>
     <lastName>AEROCARIBBEAN AIRLINES</lastName>
     <sdnType>Entity</sdnType>
     <programList>
@@ -12,12 +13,21 @@
         <uid>12</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>AERO-CARIBBEAN</lastName>
+        <lastName>aka AERO-CARIBBEAN</lastName>
+        <firstName>aka AEROCARIBBEAN1</firstName>
+      </aka>
+      <aka>
+        <uid>12</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>aka AERO-CARIBBEAN2</lastName>
+        <firstName>aka AEROCARIBBEAN3</firstName>
       </aka>
     </akaList>
   </sdnEntry>
   <sdnEntry>
     <uid>173</uid>
+    <firstName>AEROCARIBBEAN2</firstName>
     <lastName>ANGLO-CARIBBEAN CO., LTD.</lastName>
     <sdnType>Entity</sdnType>
     <programList>
@@ -29,6 +39,7 @@
         <type>a.k.a.</type>
         <category>strong</category>
         <lastName>AVIA IMPORT</lastName>
+        <firstName>AEROCARIBBEAN4</firstName>
       </aka>
     </akaList>
   </sdnEntry>
